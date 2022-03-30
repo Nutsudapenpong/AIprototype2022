@@ -24,6 +24,15 @@
 1. Sequential : the neural network connects straightly
 2. Funcional : the neural network can skip the node
 * **[Tensorflow file](https://github.com/Nutsudapenpong/AIprototype2022/blob/main/Tensorflow_(network).ipynb)**
+
+
+
 How to run tensorflow file?
-* 1.Download CIFAR10 dataset
+
+
+
+1.Download CIFAR10 dataset
+
+
+
 2. Run tensorflow flie on google drive
