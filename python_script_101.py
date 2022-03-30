@@ -1,4 +1,4 @@
-import argparse #สำหรับ รับ input จ ากภายนอก
+import argparse #สำหรับ รับ input จากภายนอก
 import subprocess #สำหรับ รัน terminal command
 
 #import flask #สำหรับทำ web app และ webservice API
@@ -13,7 +13,7 @@ def parse_input():
         'm',
         type=int,
         help='value of m positional argument')
-                        
+    
     parser.add_argument(
         '--x',
         type=int,
@@ -24,12 +24,13 @@ def parse_input():
         type=int,
         default=3,
         help='value of y')
-                                
+    
     args = parser.parse_args()
     return args
 
 if __name__ == "__main__":
-
+    
+    
     args = parse_input()
     x = args.x
     y = args.yval
