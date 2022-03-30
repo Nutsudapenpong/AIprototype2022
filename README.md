@@ -31,6 +31,6 @@ How to run tensorflow file?
 
 
 
-1.Download CIFAR10 dataset
+1. Download CIFAR10 dataset
 
-2.Run tensorflow flie on google drive
+2. Run tensorflow flie on google drive
