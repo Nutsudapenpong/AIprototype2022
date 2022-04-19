@@ -20,7 +20,7 @@ Coding for creating basic web application and web service
 * **[post requests file](https://github.com/Nutsudapenpong/AIprototype2022/blob/main/postrequests.py)**
 
 ### Cloud database and AI 
-
+Creating database and managing data
 * **[Cloud database and AI file](https://github.com/Nutsudapenpong/AIprototype2022/blob/main/Cloud_DB_and_AI.ipynb)**
 
 ### Tensorflow for neural network 
